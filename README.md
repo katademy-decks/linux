@@ -1,0 +1,2 @@
+# linux-faq
+Learn Linux 🐧
