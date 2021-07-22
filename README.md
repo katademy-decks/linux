@@ -1,5 +1,3 @@
-# linux-faq
-
 Questions to test your Linux knowledge.
 
 ## Table of Contents:
