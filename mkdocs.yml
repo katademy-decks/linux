@@ -9,7 +9,7 @@ repo_name: linux-faq
 theme:
   favicon: favicon.png
   icon:
-    logo: material/computer
+    logo: material/cloud
   custom_dir: overrides
   features:
     - header.autohide
